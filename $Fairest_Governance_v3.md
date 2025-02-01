@@ -14,7 +14,7 @@ The vision is for the community to have complete control over its governance wit
 If further functions are needed for the governance suite later on and the community supports the growth their shared visions, I hope they will be integrated accordingly.
 Currently, the community can veto a proposal made by the wielder of the council token if 42% of the votes oppose the proposal being enacted in a vote.
 
-The total free-float of the token when we exclude all LP-tokens which are locked in 
+The total free-float of the token when we exclude all LP-tokens which are locked in liquidity pools amount to 220 363 425 tokens.
 
 This a system that seamlessly interacts with the economic system deployed by DeFiHope, which autonomously enhances the functionality of the contract and what the members can do together.
 
