@@ -9,12 +9,12 @@ This system currently includes one council token with VETO rights, allowing it t
 Ideally, this "responsibility token" would no longer be held by any single entity when the community feels ready and that’s what it wants. Any changes to the structure of how these tokens are distributed should only be voted on when the community consensus deems it necessary, and should occur once the community is comfortable with managing proposals and voting mechanics independently.
 
 In essence, this veto function should remain as a legacy feature unless the community decides there's a future need for it to be reinstated.
-
 The vision is for the community to have complete control over its governance without external guidance. This scenario would be optimal, where the power within the DAO sustains itself through the community's interest in its continuation and development.
 
 If further functions are needed for the governance suite later on and the community supports the growth their shared visions, I hope they will be integrated accordingly.
+Currently, the community can veto a proposal made by the wielder of the council token if 42% of the votes oppose the proposal being enacted in a vote.
 
-Currently, the community can veto a proposal made by the wielder of the council token if 42% of the votes oppose the proposal being enacted in a vote. 
+The total free-float of the token when we exclude all LP-tokens which are locked in 
 
 This a system that seamlessly interacts with the economic system deployed by DeFiHope, which autonomously enhances the functionality of the contract and what the members can do together.
 
