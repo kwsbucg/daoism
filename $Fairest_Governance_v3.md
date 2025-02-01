@@ -46,9 +46,14 @@ All community members can vote, but creating a proposal requires holding at leas
 Please verify token names and exact figures with the most current data for accuracy.
 
 The project details used for this development is the following:
+
 Solana Network
 Token address: CFrd1PnphJcNiGHtL3QYLb2Fvs1aBbJfah3FqgNPpump Token Name: Fairest Launch (Fairest)
+
 Launch plattform: Pump.fun
+
 Detailed Tokenomics: https://solscan.io/token/CFrd1PnphJcNiGHtL3QYLb2Fvs1aBbJfah3FqgNPpump#holders
+
 Website: fairest.fun
+
 Governance dApp --- https://app.realms.today/dao/461hmnntTyk8gLyooXXpsS2296oJTTBSzq7ksbhHcEMX
